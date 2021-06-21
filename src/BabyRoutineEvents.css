@@ -1,0 +1,89 @@
+@font-face {
+  font-family: babyfont;
+  src: url(CuteBabyRegularDF.ttf);
+}
+
+.Events {
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  padding: 2;
+  margin: 'auto';
+  height: 100px;
+  max-width: 500;
+  width: 100%;
+  margin-bottom: 15px;
+  border: 5;
+  border-color: #24242452;
+  font-family: babyfont;
+  font-size: 5vw;
+  display: table-cell;
+  border-radius: 15px;
+  line-height: .8;
+  padding-bottom: 10px;
+}
+
+.col {
+  margin-bottom: 10px;
+}
+
+.b1 {
+  background-color: #B0D9D9;
+}
+
+.b2 {
+  background-color: #93b7b7;
+}
+
+.b3 {
+  background-color: #F2EFBD;
+}
+
+.b4 {
+  background-color: #F2CDAC;
+}
+
+.b5 {
+  background-color: #dabc9a;
+}
+
+.b6 {
+  background-color: #bfbd8d;
+}
+
+.b6 {
+  background-color: #bfbd8d;
+}
+
+
+.b7 {
+  background-color: #eaeaea;
+}
+
+.history:hover {
+  cursor: pointer;
+}
+
+.history {
+  font-family: 'Courier New', Courier, monospace;
+  color: #24242452;
+  background-color: white;
+  /* opacity: 50%; */
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
+  min-height: 100px;
+}
+
+.history-content-title {
+  color: black;
+  text-decoration: none;
+}
+
+.history-content {
+  text-align: left;
+  color: black;
+}

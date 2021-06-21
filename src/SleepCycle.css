@@ -1,0 +1,19 @@
+.cycle-background {
+  /* height: 150px; */
+  /* background-color: white; */
+  opacity: 85%;
+  /* border-radius: 10px; */
+}
+
+.shadow-effect {
+  background-color: white;
+  -webkit-box-shadow: 0 0 10px 10px white;
+  -moz-box-shadow: 0 0 10px 10px white;
+  box-shadow: 0 0 10px 10px white;
+}
+
+.row-cycle {
+  background-color: #bbeffd;
+  border: 1px solid #61dafb;
+  height: 50px;
+}
