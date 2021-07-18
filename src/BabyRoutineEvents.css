@@ -87,3 +87,30 @@ button {
   text-align: left;
   color: black;
 }
+
+/* .playstop {
+  position: sticky;
+  right: 10px;
+  top: 10px;
+  font-size: 40px; 
+} */
+
+/* .playstopNinar1 {
+  position: fixed;
+  right: 10px;
+  top: 70px;
+  font-size: 40px;
+} */
+
+.soundsIcons {
+  z-index: 9999;
+  font-size: 50px;
+}
+
+.soundDesc {
+  font-size: 30px;
+}
+
+.soundNumber {
+  font-size: 30px;
+}
